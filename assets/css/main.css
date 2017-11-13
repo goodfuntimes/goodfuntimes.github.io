@@ -1837,7 +1837,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		padding: 0.5em 0 0em 0;
+		padding: 2.5em 0 1em 0;
 	}
 
 	#features-wrapper {
@@ -2161,7 +2161,7 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 1em 0 0em 0;
+				padding: 3em 0 1em 0;
 				text-align: center;
 			}
 
@@ -2516,7 +2516,7 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 1em 0 0em 0;
+				padding: 3em 0 1.5em 0;
 			}
 
 			#banner-wrapper {
